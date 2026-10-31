@@ -1,0 +1,9 @@
+Student_ID,Name,Subject,Marks,Attendance,Result,Grade
+108,Fatima,Python,95,98,Pass,A
+102,Sara,Python,92,95,Pass,A
+106,Zara,Python,88,92,Pass,B
+101,Ali,Python,85,90,Pass,B
+104,Ayesha,Python,78,80,Pass,C
+105,Usman,Python,65,60,Pass,D
+103,Ahmed,Python,45,70,Fail,F
+107,Hassan,Python,35,65,Fail,F
